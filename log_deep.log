@@ -1,0 +1,166 @@
+1-th hidden layer,weight shape =(101, 64)
+2-th hidden layer,weight shape =(64, 16)
+final logit layer ,weight shape=(16, 1)
+1-th hidden layer,weight shape =(101, 64)
+2-th hidden layer,weight shape =(64, 16)
+final logit layer ,weight shape=(16, 1)
+1-th hidden layer,weight shape =(101, 64)
+2-th hidden layer,weight shape =(64, 16)
+final logit layer ,weight shape=(16, 1)
+
+============1-th Epoch
+1-th hidden layer,weight shape =(101, 64)
+2-th hidden layer,weight shape =(64, 16)
+final logit layer ,weight shape=(16, 1)
+
+============1-th Epoch
+1-th hidden layer,weight shape =(101, 64)
+2-th hidden layer,weight shape =(64, 16)
+final logit layer ,weight shape=(16, 1)
+
+============1-th Epoch
+1-th hidden layer,weight shape =(101, 64)
+2-th hidden layer,weight shape =(64, 16)
+final logit layer ,weight shape=(16, 1)
+
+============1-th Epoch
+1-th hidden layer,weight shape =(101, 64)
+2-th hidden layer,weight shape =(64, 16)
+final logit layer ,weight shape=(16, 1)
+
+============1-th Epoch
+1-th hidden layer,weight shape =(101, 64)
+2-th hidden layer,weight shape =(64, 16)
+final logit layer ,weight shape=(16, 1)
+
+============1-th Epoch
+1-th hidden layer,weight shape =(101, 64)
+2-th hidden layer,weight shape =(64, 16)
+final logit layer ,weight shape=(16, 1)
+
+============1-th Epoch
+1-th hidden layer,weight shape =(101, 64)
+2-th hidden layer,weight shape =(64, 16)
+final logit layer ,weight shape=(16, 1)
+
+============1-th Epoch
+1-th hidden layer,weight shape =(101, 64)
+2-th hidden layer,weight shape =(64, 16)
+final logit layer ,weight shape=(16, 1)
+
+============1-th Epoch
+1-th hidden layer,weight shape =(101, 64)
+2-th hidden layer,weight shape =(64, 16)
+final logit layer ,weight shape=(16, 1)
+
+============1-th Epoch
+1-th hidden layer,weight shape =(101, 64)
+2-th hidden layer,weight shape =(64, 16)
+final logit layer ,weight shape=(16, 1)
+
+============1-th Epoch
+1-th hidden layer,weight shape =(101, 64)
+2-th hidden layer,weight shape =(64, 16)
+final logit layer ,weight shape=(16, 1)
+
+============1-th Epoch
+1-th hidden layer,weight shape =(101, 64)
+2-th hidden layer,weight shape =(64, 16)
+final logit layer ,weight shape=(16, 1)
+
+============1-th Epoch
+1-th hidden layer,weight shape =(101, 64)
+2-th hidden layer,weight shape =(64, 16)
+final logit layer ,weight shape=(16, 1)
+
+============1-th Epoch
+1-th hidden layer,weight shape =(101, 64)
+2-th hidden layer,weight shape =(64, 16)
+final logit layer ,weight shape=(16, 1)
+
+============1-th Epoch
+1-th hidden layer,weight shape =(101, 64)
+2-th hidden layer,weight shape =(64, 16)
+final logit layer ,weight shape=(16, 1)
+
+============1-th Epoch
+1-th hidden layer,weight shape =(101, 64)
+2-th hidden layer,weight shape =(64, 16)
+final logit layer ,weight shape=(16, 1)
+
+============1-th Epoch
+1-th hidden layer,weight shape =(101, 64)
+2-th hidden layer,weight shape =(64, 16)
+final logit layer ,weight shape=(16, 1)
+
+============1-th Epoch
+1-th hidden layer,weight shape =(101, 64)
+2-th hidden layer,weight shape =(64, 16)
+final logit layer ,weight shape=(16, 1)
+
+============1-th Epoch
+1-th hidden layer,weight shape =(101, 64)
+2-th hidden layer,weight shape =(64, 16)
+final logit layer ,weight shape=(16, 1)
+
+============1-th Epoch
+1-th hidden layer,weight shape =(101, 64)
+2-th hidden layer,weight shape =(64, 16)
+final logit layer ,weight shape=(16, 1)
+
+============1-th Epoch
+1-th hidden layer,weight shape =(101, 64)
+2-th hidden layer,weight shape =(64, 16)
+final logit layer ,weight shape=(16, 1)
+
+============1-th Epoch
+1-th hidden layer,weight shape =(101, 64)
+2-th hidden layer,weight shape =(64, 16)
+final logit layer ,weight shape=(16, 1)
+
+============1-th Epoch
+{'train_logloss': 0.6045059234310032, 'train_auc': 0.6400530502268179, 'train_accuracy': 0.7707379994471915, 'test_logloss': 0.5811684488105748, 'test_auc': 0.7055975210459966, 'test_accuracy': 0.7775320926233033}
+
+============2-th Epoch
+{'train_logloss': 0.5687048282357678, 'train_auc': 0.7404123840372715, 'train_accuracy': 0.7756825650317865, 'test_logloss': 0.5558980982055101, 'test_auc': 0.7611982517097226, 'test_accuracy': 0.7771635648915914}
+
+============3-th Epoch
+{'train_logloss': 0.5475499908905019, 'train_auc': 0.7804382247863999, 'train_accuracy': 0.7770645864684745, 'test_logloss': 0.5377758960067678, 'test_auc': 0.7904135827676774, 'test_accuracy': 0.7796204164363368}
+
+============4-th Epoch
+{'train_logloss': 0.5314407784957617, 'train_auc': 0.8033678100219203, 'train_accuracy': 0.7800436104542244, 'test_logloss': 0.5232941010512523, 'test_auc': 0.8083634483296501, 'test_accuracy': 0.7841655917941158}
+
+============5-th Epoch
+{'train_logloss': 0.5182339895912796, 'train_auc': 0.8178366587297952, 'train_accuracy': 0.7843739442891803, 'test_logloss': 0.5111364349560482, 'test_auc': 0.82048116665318, 'test_accuracy': 0.7884036607088016}
+
+============6-th Epoch
+{'train_logloss': 0.5069799992699425, 'train_auc': 0.8277112356260284, 'train_accuracy': 0.7875372377998219, 'test_logloss': 0.5006393885698817, 'test_auc': 0.8291643744559594, 'test_accuracy': 0.7920275167373011}
+
+============7-th Epoch
+{'train_logloss': 0.49716527698338, 'train_auc': 0.835072645281276, 'train_accuracy': 0.790976935597801, 'test_logloss': 0.4913933030648988, 'test_auc': 0.8357483772611861, 'test_accuracy': 0.7952214237454702}
+
+============8-th Epoch
+{'train_logloss': 0.48846001580329085, 'train_auc': 0.8408126068722659, 'train_accuracy': 0.7939866711710328, 'test_logloss': 0.48313870959389427, 'test_auc': 0.840883410165518, 'test_accuracy': 0.7979853817333088}
+
+============9-th Epoch
+{'train_logloss': 0.4806555272498034, 'train_auc': 0.8453406013696985, 'train_accuracy': 0.7963821749946255, 'test_logloss': 0.4757006115389584, 'test_auc': 0.845038495548668, 'test_accuracy': 0.8006264971439101}
+
+============10-th Epoch
+{'train_logloss': 0.4735967961586533, 'train_auc': 0.8489588015282709, 'train_accuracy': 0.7987162556432542, 'test_logloss': 0.4689441438041273, 'test_auc': 0.848507956401891, 'test_accuracy': 0.8022848719366132}
+
+*************** TIME COST ****************
+26.16 seconds for 10 epoches
+18673.60 examples per second 
+
+****************** LEARNING CURVE*********************
+   train_logloss  train_auc  train_accuracy  test_logloss  test_auc  test_accuracy
+0       0.604506   0.640053        0.770738      0.581168  0.705598       0.777532
+1       0.568705   0.740412        0.775683      0.555898  0.761198       0.777164
+2       0.547550   0.780438        0.777065      0.537776  0.790414       0.779620
+3       0.531441   0.803368        0.780044      0.523294  0.808363       0.784166
+4       0.518234   0.817837        0.784374      0.511136  0.820481       0.788404
+5       0.506980   0.827711        0.787537      0.500639  0.829164       0.792028
+6       0.497165   0.835073        0.790977      0.491393  0.835748       0.795221
+7       0.488460   0.840813        0.793987      0.483139  0.840883       0.797985
+8       0.480656   0.845341        0.796382      0.475701  0.845038       0.800626
+9       0.473597   0.848959        0.798716      0.468944  0.848508       0.802285
